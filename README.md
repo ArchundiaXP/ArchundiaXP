@@ -1,40 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=I'm%20Archundia&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Pentester%20%7C%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<!-- <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ArchundiaXP">
-    <img src="https://komarev.com/ghpvc/?username=ArchundiaXP&label=Profile%20views&color=00FFFF&style=flat-square" alt="ArchundiaXP's profile views" />
-  </a>
-</p> 
-
-<img src="none" alt="Banner" width="100%" />-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="20px" width="20px"> About Me
-I love doing pentesting, taking systems apart to see how they work under the hood, and then using what I learn to build creative, fun, and sometimes goofy software xP
-
-
-
-
-## 🧠 My Focus Areas
--> Pentesting
--> Vulnerability Analysis
--> Neural Networks
--> Developer
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ArchundiaXP">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArchundiaXP&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ArchundiaXP's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ArchundiaXP&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ArchundiaXP's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ArchundiaXP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="I'm Archundia's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ArchundiaXP&theme=tokyonight&radius=10" alt="ArchundiaXP's Activity Graph" />
-</p>
-
+I'm Cybersecurity and developer based in Mexico CIty. I love doing pentesting, taking systems apart to see how they work under the hood, and then using what I learn to build creative, fun, and sometimes goofy software xP
 
 ## 🛠️ Languages & Tools
 
@@ -93,6 +61,27 @@ I love doing pentesting, taking systems apart to see how they work under the hoo
   </a>
 </p>
 
+
+## 🧠 My Focus Areas
+<ul>
+  <li>Pentesting</li>
+  <li>Vulnerability Analysis</li>
+  <li>Neural Networks</li>
+  <li>Software developer</li>
+</ul>
+
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ArchundiaXP">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArchundiaXP&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ArchundiaXP's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ArchundiaXP&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ArchundiaXP's GitHub Streak" width="49%" />
+</p>
+
+
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-ramos-archundia/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="I'm Archundia's LinkedIn"/></a>
@@ -106,7 +95,6 @@ I love doing pentesting, taking systems apart to see how they work under the hoo
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />

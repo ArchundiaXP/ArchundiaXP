@@ -100,18 +100,18 @@ I'm Cybersecurity and developer based in Mexico CIty. I love doing pentesting, t
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/ArchundiaXP">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArchundiaXP&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ArchundiaXP's GitHub Stats" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArchundiaXP&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ArchundiaXP's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ArchundiaXP&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ArchundiaXP's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ArchundiaXP&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ArchundiaXP's GitHub Streak" width="42%" />
 </p>
 
 
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-ramos-archundia/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="I'm Archundia's LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/carlos-ramos-archundia/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="I'm Archundia's Linkedin"/></a>
   <a href="mailto:archundia.cr4@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="I'm Archundia's Email"/></a>
-  <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Farchundiaxp.github.io%2FArchundiaXP-portfolio%2F&urlhash=ud_O&mt=UqQTM6SVEPGBcc0cg6-u-jy6PDKjJeFHoxB9khOClydn7KvvmtP66hLvxp37RgIqHifHwkGeKjkHfmlMgcSQzdonVwI&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRy50%2BOb3R%2FasudIIWBY18Q%3D%3D"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Farchundiaxp.github.io%2FArchundiaXP-portfolio%2F&urlhash=ud_O&mt=UqQTM6SVEPGBcc0cg6-u-jy6PDKjJeFHoxB9khOClydn7KvvmtP66hLvxp37RgIqHifHwkGeKjkHfmlMgcSQzdonVwI&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRy50%2BOb3R%2FasudIIWBY18Q%3D%3D"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Personal Website"/></a>
 </p>
 
 <picture>

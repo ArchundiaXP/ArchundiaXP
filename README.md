@@ -15,13 +15,12 @@ I'm Cybersecurity and developer based in Mexico CIty. I love doing pentesting, t
 
 ## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Languages & Tools
 
-<h3 align="center">Backend</h3>
+<h4 align="center">Backend</h4>
 <p align="center">
   
   <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="" alt="Python"/>
   <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
@@ -50,7 +49,7 @@ I'm Cybersecurity and developer based in Mexico CIty. I love doing pentesting, t
 <p align="center">
   
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="(https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   
 </p>
 
@@ -111,7 +110,7 @@ I'm Cybersecurity and developer based in Mexico CIty. I love doing pentesting, t
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-ramos-archundia/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="I'm Archundia's LinkedIn"/></a>
-  <a href="mailto:archundia.cr4@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="I'm Archundia's Email"/></a>
+  <a href="mailto:archundia.cr4@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="I'm Archundia's Email"/></a>
   <a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Farchundiaxp.github.io%2FArchundiaXP-portfolio%2F&urlhash=ud_O&mt=UqQTM6SVEPGBcc0cg6-u-jy6PDKjJeFHoxB9khOClydn7KvvmtP66hLvxp37RgIqHifHwkGeKjkHfmlMgcSQzdonVwI&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRy50%2BOb3R%2FasudIIWBY18Q%3D%3D"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 

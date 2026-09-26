@@ -1,15 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=I'm%20Archundia&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Pentester%20%7C%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ArchundiaXP">
     <img src="https://komarev.com/ghpvc/?username=ArchundiaXP&label=Profile%20views&color=00FFFF&style=flat-square" alt="ArchundiaXP's profile views" />
   </a>
-</p>
+</p> 
 
-<img src="none" alt="Banner" width="100%" />
+<img src="none" alt="Banner" width="100%" />-->
 
-## 📌 About Me
-- I love doing pentesting, taking systems apart to see how they work under the hood, and then using what I learn to build creative, fun, and sometimes goofy software xP
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="20px" width="20px"> About Me
+I love doing pentesting, taking systems apart to see how they work under the hood, and then using what I learn to build creative, fun, and sometimes goofy software xP
+
+
 
 
 ## 🧠 My Focus Areas
